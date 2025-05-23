@@ -12,6 +12,7 @@ This project provides a comprehensive sales analysis for a coffee shop using Mic
 - Track Footfall ,Sales,Highly sales Product
 
 # Key Used
+- POWER QUERY EDITOR
 - Data Extract,Transformation,Formatting
 - Pivot Tables
 - Pivot Charts
